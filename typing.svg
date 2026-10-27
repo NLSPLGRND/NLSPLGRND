@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="422" height="44" viewBox="0 0 422 44" role="img" aria-label="Projects | Experiments | Learning">
+  <style>
+    text { font: 20px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #24292f; }
+    .cursor { fill: #24292f; }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #e6edf3; }
+      .cursor { fill: #e6edf3; }
+    }
+  </style>
+  <defs>
+    <clipPath id="reveal">
+      <rect x="10" y="0" height="44" width="0">
+        <animate attributeName="width" dur="30s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.00404;0.00808;0.01212;0.01616;0.02020;0.02424;0.02828;0.03232;0.03636;0.04040;0.04444;0.04848;0.05253;0.05657;0.06061;0.06465;0.06869;0.07273;0.07677;0.08081;0.08485;0.08889;0.09293;0.09697;0.10101;0.10505;0.10909;0.11313;0.11717;0.12121;0.12525;0.12929;0.13333;1" values="0.0;12.0;24.0;36.0;48.0;60.0;72.0;84.0;96.0;108.0;120.0;132.0;144.0;156.0;168.0;180.0;192.0;204.0;216.0;228.0;240.0;252.0;264.0;276.0;288.0;300.0;312.0;324.0;336.0;348.0;360.0;372.0;384.0;396.0;396.0"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="10" y="29" xml:space="preserve" clip-path="url(#reveal)">Projects | Experiments | Learning</text>
+  <rect class="cursor" x="10" y="9" width="2" height="24">
+    <animate attributeName="x" dur="30s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.00404;0.00808;0.01212;0.01616;0.02020;0.02424;0.02828;0.03232;0.03636;0.04040;0.04444;0.04848;0.05253;0.05657;0.06061;0.06465;0.06869;0.07273;0.07677;0.08081;0.08485;0.08889;0.09293;0.09697;0.10101;0.10505;0.10909;0.11313;0.11717;0.12121;0.12525;0.12929;0.13333;1" values="10.0;22.0;34.0;46.0;58.0;70.0;82.0;94.0;106.0;118.0;130.0;142.0;154.0;166.0;178.0;190.0;202.0;214.0;226.0;238.0;250.0;262.0;274.0;286.0;298.0;310.0;322.0;334.0;346.0;358.0;370.0;382.0;394.0;406.0;406.0"/>
+    <animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5" values="1;0"/>
+  </rect>
+</svg>
